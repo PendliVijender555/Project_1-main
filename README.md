@@ -43,7 +43,7 @@ some of the features which are going to update soon are
 3.Srping Boot for backend
 
 ##  Getting Started:
-git clone https://github.com/SrikanthMidathapalli/Project_1.git
+git clone https://github.com/PendliVijender555/Project_1-main.git
 
 cd my-project 
 ## usage:
@@ -51,5 +51,5 @@ cd my-project
 After project come reside into your local system 
 run the index.html, file you can able to use the App
 ## Contributors:
-1.SrikanthMidathapalli
+VijenderPendli
 
